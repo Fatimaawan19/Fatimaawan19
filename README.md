@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:243B55&height=200&section=header&text=Fatima%20Khalil&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Analytics&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Graduate;Turning+Data+Into+Meaningful+Insights;Exploring+AI+%26+Machine+Learning;Building+Data-Driven+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist;Turning+Data+Into+Meaningful+Insights;Exploring+AI+%26+Machine+Learning;Building+Data-Driven+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -49,7 +49,7 @@ class FatimaKhalil:
     motto = "Turning complex data into meaningful insights."
 ```
 
-I'm a Data Science graduate interested in building intelligent, data-driven solutions that solve real-world problems.
+I'm a Data Scientist who is interested in building intelligent, data-driven solutions that solve real-world problems.
 
 My experience spans business intelligence, telecom analytics, machine learning, anomaly detection, and AI-powered applications. I also focus on freelance data analytics services, helping turn raw data into clear insights and useful reports.
 
