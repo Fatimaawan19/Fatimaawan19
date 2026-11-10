@@ -1,8 +1,4 @@
 
-<!-- ===================================================== -->
-<!-- FATIMA KHALIL | GITHUB PROFILE README                  -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:243B55&height=200&section=header&text=Fatima%20Khalil&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Analytics&descAlignY=58&descSize=17" width="100%"/>
@@ -19,7 +15,7 @@
 <a href="https://linkedin.com/in/fatima-khalil-679572277">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:fatimaawann34@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -55,9 +51,7 @@ class FatimaKhalil:
 
 I'm a Data Science graduate interested in building intelligent, data-driven solutions that solve real-world problems.
 
-My experience spans business intelligence, telecom analytics, machine learning, anomaly detection, and AI-powered applications.
-
-I enjoy exploring complex datasets, discovering patterns, and translating technical findings into actionable insights.
+My experience spans business intelligence, telecom analytics, machine learning, anomaly detection, and AI-powered applications. I also focus on freelance data analytics services, helping turn raw data into clear insights and useful reports.
 
 ---
 
@@ -84,13 +78,27 @@ I enjoy exploring complex datasets, discovering patterns, and translating techni
 
 ---
 
+## `freelance.services` 💻
+
+**Freelance Data Analyst | Independent**
+
+Focused on data analytics and business intelligence services, with an emphasis on turning raw datasets into meaningful insights and actionable reporting.
+
+- Data cleaning and preprocessing using Excel and Python.
+- SQL-based data querying and analysis.
+- Exploratory Data Analysis (EDA).
+- Power BI dashboards and KPI reporting.
+- Shopify and e-commerce sales analysis.
+- SKU and traffic-source performance analysis.
+- Business metrics analysis, including ROI, CPA, AOV, conversion and profit.
+
+**Service areas:** Data Analytics | Excel | SQL | Python | Power BI | E-commerce Analytics
+
+---
+
 ## `featured_projects/` 🚀
 
 ### 01. Night Watch — AI-Powered Threat Monitoring
-
-<a href="https://github.com/Fatimaawan19/SOC_TWP">
-<img src="https://img.shields.io/badge/Repository-View_Project-58A6FF?style=flat-square&logo=github"/>
-</a>
 
 A web monitoring and defacement detection project designed for digital asset security monitoring.
 
